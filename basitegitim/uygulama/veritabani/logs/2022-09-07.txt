@@ -1,0 +1,3 @@
+Time : 15:37:23
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.idealler' doesn't exist
+Raw SQL : SELECT * from idealler

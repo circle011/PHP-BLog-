@@ -1,0 +1,27 @@
+Time : 16:43:46
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6  WHERE id = :7
+
+Time : 15:45:59
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6  WHERE id = :7
+
+Time : 09:21:50
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6 , resimler =:8  WHERE id = :7
+
+Time : 09:09:40
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6  WHERE id = :7
+
+Time : 09:07:25
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6 , resimler =:8  WHERE id = :7
+
+Time : 09:07:16
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6  WHERE id = :7
+
+Time : 09:07:10
+SQLSTATE[42S02]: Base table or view not found: 1146 Table 'blogdenemesi.proje' doesn't exist
+Raw SQL : UPDATE proje  SET baslik = :1 , k_baslik =:2 , kategori = :3 , durum =:4 , icerik =:5, tur =:6 , resimler =:8  WHERE id = :7
